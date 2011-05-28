@@ -1,5 +1,5 @@
 === Client-proof Visual Editor ===
-Author: hugobaeta
+Contributors: hugobaeta
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=hugo%2ebaeta%40gmail%2ecom&lc=PT&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted
 Tags: visual editor, TinyMCE
 Requires at least: 3.0

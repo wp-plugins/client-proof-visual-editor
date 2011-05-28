@@ -2,9 +2,10 @@
 /*
 Plugin Name: Client-proof Visual Editor
 Plugin URI: http://justhugo.com/wp-plugins/clientproof-visual-editor
-Version: v1.00
-Author: <a href="http://justhugo.com/">Hugo Baeta</a>, 
-Description: Simple, option-less, plugin to make TinyMCE - the WordPress Visual Editor - easier for clients and noobs. It removes a bunch of TinyMCE features that could potentially be used by inexperienced clients to screw-up the theme developers hard work! Thanks to <a href="http://ze.fontainhas.com/">Jos&eacute; Fontainhas</a> for testing and SVN help and <a href="http://http://trodrigues.net/">Tiago Rodrigues</a> for help with TinyMCE "paste" issues - one of the main features of this plugin (making TinyMCE remove the nasty formatting when you paste content directly in it!)
+Version: 1.0
+Author: Hugo Baeta
+Author URI: http://justhugo.com
+Description: Simple, option-less (yeah, that's a feature), plugin to make TinyMCE - the WordPress Visual Editor - easier for clients and n00bs. It removes a bunch of TinyMCE features that could potentially be used by inexperienced clients to screw-up the theme developers hard work! It also makes TinyMCE remove the nasty formatting when you paste content directly in it - so, there is no need to use the "paste from Word" or "paste from text" buttons! 
 */
 
 function clientproof_visual_editor( $initArray ) {
