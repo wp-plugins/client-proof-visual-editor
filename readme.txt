@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=hugo%
 Tags: visual editor, TinyMCE
 Requires at least: 3.0
 Tested up to: 3.8
-Stable tag: 1.1
+Stable tag: 1.2
 
 Simple, option-less, plugin to make TinyMCE - the WordPress Visual Editor - easier for clients and n00bs.
 
@@ -46,6 +46,9 @@ This plugin has no options. That is a feature! Just activate it and enjoy the si
 1. screenshot-1.png
 
 == Changelog ==
+
+= 1.2 =
+* Updated code to fix bug with second row of buttons showing up sometimes.
 
 = 1.1 =
 * Updated code to add full-screen mode button and update version compatibility to WordPress 3.8
