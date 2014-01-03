@@ -1,6 +1,6 @@
 === Client-proof Visual Editor ===
 Contributors: hugobaeta
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=hugo%2ebaeta%40gmail%2ecom&lc=PT&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=hugo%40baeta%2eme&lc=US&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: visual editor, TinyMCE
 Requires at least: 3.0
 Tested up to: 3.8
