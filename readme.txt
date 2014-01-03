@@ -3,8 +3,8 @@ Contributors: hugobaeta
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=hugo%2ebaeta%40gmail%2ecom&lc=PT&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted
 Tags: visual editor, TinyMCE
 Requires at least: 3.0
-Tested up to: 3.1.3
-Stable tag: 1.0
+Tested up to: 3.8
+Stable tag: 1.1
 
 Simple, option-less, plugin to make TinyMCE - the WordPress Visual Editor - easier for clients and n00bs.
 
@@ -25,13 +25,14 @@ Thanks to [Jos&eacute; Fontainhas](http://ze.fontainhas.com/) for testing and SV
 * Ordered Lists
 * Blockquote
 * Link Buttons
-* More Tag
 * Horizontal Line
+* More Tag
 * Remove Formatting
+* Full Screen mode
 
 = Where are the plugin options? =
 
-This plugin has no options. That is a feature! Just activate it and enjoy.
+This plugin has no options. That is a feature! Just activate it and enjoy the simplicity.
 
 
 == Installation ==
@@ -45,6 +46,9 @@ This plugin has no options. That is a feature! Just activate it and enjoy.
 1. screenshot-1.png
 
 == Changelog ==
+
+= 1.1 =
+* Updated code to add full-screen mode button and update version compatibility to WordPress 3.8
 
 = 1.0 =
 * Plugin creation
