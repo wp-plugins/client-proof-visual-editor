@@ -11,7 +11,7 @@ Description: Simple, option-less, plugin to make TinyMCE - the WordPress Visual 
 function clientproof_visual_editor( $mceInit ) {
 	//@see http://wiki.moxiecode.com/index.php/TinyMCE:Control_reference
 	$mceInit['block_formats'] = 'Header 2=h2;Header 3=h3;Header 4=h4;Paragraph=p;Code=code';
-	$mceInit['toolbar1'] = 'bold,italic,strikethrough,formatselect,bullist,numlist,blockquote,link,unlink,hr,wp_more,removeformat,wp_fullscreen';
+	$mceInit['toolbar1'] = 'bold,italic,strikethrough,formatselect,bullist,numlist,blockquote,link,unlink,hr,wp_more,wp_fullscreen';
 	$mceInit['toolbar2'] = '';
 	$mceInit['toolbar3'] = '';
 	$mceInit['toolbar4'] = '';

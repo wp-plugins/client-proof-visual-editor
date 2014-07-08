@@ -27,13 +27,15 @@ Thanks to [Jos&eacute; Fontainhas](http://ze.fontainhas.com/) for testing and SV
 * Link Buttons
 * Horizontal Line
 * More Tag
-* Remove Formatting
 * Full Screen mode
 
 = Where are the plugin options? =
 
 This plugin has no options. That is a feature! Just activate it and enjoy the simplicity.
 
+= Does it do anything else? =
+
+When you paste text directly into the visual editor, all formatting gets removed automagically! There's no need to teach clients to use the "Paste as Text" or "Paste from Word" buttons (which I always found hard to get people to remember using them).
 
 == Installation ==
 
