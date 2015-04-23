@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Client-proof Visual Editor
-Plugin URI: http://github.com/hugobaeta/client-proof-visual-editor
-Version: 1.4
+Plugin URI: https://wordpress.org/plugins/client-proof-visual-editor/
+Version: 1.5
 Author: Hugo Baeta
 Author URI: http://hugobaeta.com
 Description: Simple, option-less, plugin to make TinyMCE - the WordPress Visual Editor - easier for clients and n00bs.

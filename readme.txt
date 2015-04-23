@@ -3,8 +3,8 @@ Contributors: hugobaeta
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=hugo%40baeta%2eme&lc=US&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: visual editor, TinyMCE
 Requires at least: 3.0
-Tested up to: 4.1
-Stable tag: 1.4
+Tested up to: 4.2
+Stable tag: 1.5
 
 Simple, option-less, plugin to make TinyMCE - the WordPress Visual Editor - easier for clients and n00bs.
 
@@ -48,6 +48,9 @@ When you paste text directly into the visual editor, all formatting gets removed
 1. screenshot-1.png
 
 == Changelog ==
+
+= 1.5 =
+* Updated WordPress version tested up to 4.2.
 
 = 1.4 =
 * Updated WordPress version tested up to 4.1
