@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=hugo%
 Tags: visual editor, TinyMCE
 Requires at least: 3.0
 Tested up to: 4.2
-Stable tag: 1.5
+Stable tag: trunk
 
 Simple, option-less, plugin to make TinyMCE - the WordPress Visual Editor - easier for clients and n00bs.
 
