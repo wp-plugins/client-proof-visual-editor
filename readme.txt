@@ -3,7 +3,7 @@ Contributors: hugobaeta
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=hugo%40baeta%2eme&lc=US&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: visual editor, TinyMCE
 Requires at least: 3.0
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: trunk
 
 Simple, option-less, plugin to make TinyMCE - the WordPress Visual Editor - easier for clients and n00bs.
